@@ -9,12 +9,11 @@ event_start_date: 2020-02-28
 outdoor: true
 number_of_courts: 8
 private: false
+published: true
 
 header:
     image: pickleball-veritas.png
     background-color: "#FFFFFF"
-categories:
-    - tournaments
 ---
 <!--more-->
 

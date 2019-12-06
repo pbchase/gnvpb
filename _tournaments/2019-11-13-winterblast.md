@@ -9,13 +9,11 @@ event_start_date: 2020-01-17
 outdoor: false
 number_of_courts: 3
 private: false
+published: true
 
 header:
     image: lake_city_winter_blast.jpg
     background-color: "#262930"
-categories:
-    - tournaments
-teaser: January 17, 2020
 ---
 <!--more-->
 

@@ -10,12 +10,11 @@ event_start_date: 2020-03-07
 outdoor: true
 number_of_courts: 16
 private: false
+published: true
 
 header:
     image: palatka-azalea.png
     background-color: "#FFFFFF"
-categories:
-    - tournaments
 ---
 <!--more-->
 

@@ -50,6 +50,12 @@ plugins:
     - jekyll-gist
     - jekyll-paginate
 
+# Collections
+collections:
+  tournaments:
+    output: true
+    sort_by: event_start_date
+
 
 #       ____              _             __  _
 #      / __ \____ _____ _(_)___  ____ _/ /_(_)___  ____

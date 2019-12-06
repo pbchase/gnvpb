@@ -29,7 +29,7 @@ format: frontpage
     <div class="medium-6 columns frontpage-widget">
 	{% if page.widget3.image or page.widget3.video or page.widget3.title %}
         <h3>Tournaments</h3>
-        {% include list-posts entries='4' offset='0' category='tournaments' %}
+        {% include list-tournaments %}
 	{% endif %}
     </div>
 </div><!-- /.row -->
