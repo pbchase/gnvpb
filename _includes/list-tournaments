@@ -13,7 +13,7 @@
   {% assign sorted = (site.tournaments | sort: 'event_start_date') %}
   {% for page in sorted %}
     {% unless page.published == false %}
-    <li><a href="{{ site.url }}{{ page.url }}">{{ page.title }}: {{ page.event_start_date }}</a></li>
+    <li><a href="{{ site.url }}{{ page.url }}"><strong>{{ page.title }}:</strong> {{ page.event_start_date }}</a></li>
     {% endunless %}
   {% endfor %}
   <li>&nbsp;</li>
