@@ -1,0 +1,68 @@
+---
+layout: default
+format: venue
+---
+{% if page.image.title %}
+<div class="row t30">
+	<div class="small-12 columns">
+		<img src="{{ site.urlimg }}{{ page.image.title }}" width="970" alt="{{ page.title | escape_once }}">
+		{% if page.image.caption_url and page.image.caption %}
+		<p class="text-right caption">
+			<a href="{{ page.image.caption_url }}">{{ page.image.caption }}</a>
+		</p>
+		{% endif %}
+	</div><!-- /.small-12.columns -->
+</div><!-- /.row -->
+{% endif %}
+
+
+<div class="row t30">
+	<div class="medium-12 columns">
+		<article>
+			<header>
+				{% if page.subheadline %}<p class="subheadline">{{ page.subheadline }}</p>{% endif %}
+				<h1>{{ page.title }}</h1>
+			</header>
+
+			{% if page.teaser %}
+			<p class="teaser">
+				{{ page.teaser }}
+			</p>
+			{% endif %}
+
+            {% if page.address and page.google_maps_link %}
+              <a href="{{ page.google_maps_link }}">{{ page.address }}</a><br>
+            {% elsif page.address %}
+              {{ page.address }}<br>
+            {% endif %}
+
+            {% if page.schedule %}
+            <p>
+              Regular play: {{ page.schedule }}
+            </p>
+            {% else %}
+            <br>
+            {% endif %}
+            
+			{{ content }}
+            
+            
+            {% if page.phone or page.email or page.website %}
+                More information about the facility:<br>
+            {% endif %}
+            
+            {% if page.phone %}
+              {{ page.phone }}<br>
+            {% endif %}
+            
+            {% if page.email %}
+              <a href="mailto:{{ page.email }}">{{ page.email }}</a><br>
+            {% endif %}
+            
+            {% if page.website %}
+              <a href="{{ page.website }}">{{ page.website }}</a><br>
+            {% endif %}
+            
+		</article>
+	</div><!-- /.medium-12.columns -->
+</div><!-- /.row -->

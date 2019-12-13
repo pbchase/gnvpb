@@ -1,0 +1,9 @@
+- menu_name: "Links"
+
+- name: "USAPA"
+  url: "https://www.usapa.org/"
+  title: "USAPA - USA Pickleball"
+
+- name: "Places2Play"
+  url: "https://www.places2play.org/state/florida"
+  title: "Places2Play"

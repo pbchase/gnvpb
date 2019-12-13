@@ -1,0 +1,15 @@
+  <ul>
+    {% for day in site.data.daysoftheweek %}
+      <li>{{ day.name }}:</li>
+      <ul style="list-style-type:none;"> 
+          {% for venue in site.categories.venues %}
+            {% for venueday in venue.weekdays %}
+              {% if venueday.name == day.name %}
+              <li><a href="/gvillepb{{ venue.url }}">{{ venue.short_name }}</a>: {{ venueday.time }}</li>
+              {% endif %}
+            {% endfor %}
+          {% endfor %}
+      </ul> 
+    {% endfor %}
+    {% comment %}   First loop finished 1   {% endcomment %}
+  </ul>

@@ -1,0 +1,24 @@
+- title: Home
+  url: "/"
+  side: left
+
+- title: "Where and when to play in Gainesville"
+  url: "/venues/"
+  side: left
+  dropdown:
+  - title: "300 Club"
+    url: "/venues/300/"
+  - title: "MLK Center"
+    url: "/venues/mlk/"
+  - title: "Jonesville Tennis Center"
+    url: "/venues/jtc/"
+  - title: "Hal Brady Recreation Center"
+    url: "/venues/halbrady/"
+  - title: "Westside Park"
+    url: "/venues/westside/"
+  - title: "Northside Park"
+    url: "/venues/northside/"
+
+- title: "Contact"
+  url: "/contact/"
+  side: right
