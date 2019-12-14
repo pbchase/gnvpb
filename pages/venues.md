@@ -7,7 +7,7 @@ header:
 permalink: "/venues/"
 ---
 <ul>
-    {% for post in site.categories.venues %}
+    {% for post in site.venues %}
     <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> ({{ post.short_name }})</li>
     {% endfor %}
 </ul>

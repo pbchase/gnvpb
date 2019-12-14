@@ -2,7 +2,7 @@
     {% for day in site.data.daysoftheweek %}
       <li>{{ day.name }}:</li>
       <ul style="list-style-type:none;"> 
-          {% for venue in site.categories.venues %}
+          {% for venue in site.venues %}
             {% for venueday in venue.weekdays %}
               {% if venueday.name == day.name %}
               <li><a href="{{ venue.url }}">{{ venue.short_name }}</a>: {{ venueday.time }}</li>

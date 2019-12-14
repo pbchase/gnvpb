@@ -55,6 +55,8 @@ collections:
   tournaments:
     output: true
     sort_by: event_start_date
+  venues:
+    output: true
 
 
 #       ____              _             __  _
