@@ -40,7 +40,7 @@ You'll be well-served to read the [Getting started](https://jekyllrb.com/docs/) 
 
 ### Setup
 
-Once the software is installed, clone the git repo at [https://github.com/pbchase/gnvpb](https://github.com/pbchase/gnvpb). `cd` into the cloned repo, and run `serve.sh` or this command:
+Once the software is installed, clone the git repo at [https://github.com/gnvpb/gnvpb](https://github.com/gnvpb/gnvpb). `cd` into the cloned repo, and run `serve.sh` or this command:
 
 ```
 bundle exec jekyll serve --config _config.yml,_config_dev.yml
@@ -56,7 +56,7 @@ The most common things you might need to do are to revise the details on a venue
 
 #### Update a venue
 
-The venues are described in the [_venues](./_venues) folder. Each venue has its own file that provides all of the facts about that venue. Each venue has a lot of front matter. The front matter is the name-value pairs that occur between the '---' lines. It's used in a template that generates the web page for the site and also in web pages that need to list the sites. Look at [_venues/300.md](_venues/300.md) and compare that page to the web pages at [http://gnvpb.philipbchase.com/venues/300/](http://gnvpb.philipbchase.com/venues/300/) and [http://gnvpb.philipbchase.com/venues/](http://gnvpb.philipbchase.com/venues/). 
+The venues are described in the [_venues](./_venues) folder. Each venue has its own file that provides all of the facts about that venue. Each venue has a lot of front matter. The front matter is the name-value pairs that occur between the '---' lines. It's used in a template that generates the web page for the site and also in web pages that need to list the sites. Look at [_venues/300.md](_venues/300.md) and compare that page to the web pages at [http://gainesvillepickleball.club/venues/300/](http://gainesvillepickleball.club/venues/300/) and [http://gainesvillepickleball.club/venues/](http://gainesvillepickleball.club/venues/). 
 
 
 #### Add a tournament

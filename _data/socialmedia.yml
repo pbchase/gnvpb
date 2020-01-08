@@ -1,5 +1,5 @@
 - name: GitHub
-  url: http://github.com/pbchase/gnvpb
+  url: http://github.com/gnvpb/gnvpb
   class: icon-github
   title: Home for the source code for this website
 
