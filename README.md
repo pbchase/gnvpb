@@ -46,7 +46,7 @@ Once the software is installed, clone the git repo at [https://github.com/gnvpb/
 bundle exec jekyll serve --config _config.yml,_config_dev.yml
 ```
 
-That script will run Jekyll in dev mode and serve the content it creates at [localhost:4000](http://localhost:4000)
+That script will run Jekyll in dev mode and serve the content it creates at [localhost:3000](http://localhost:3000)
 
 Access the web site to verify it works before you make any changes.
 
