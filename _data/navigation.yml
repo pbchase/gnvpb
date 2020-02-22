@@ -16,6 +16,8 @@
     url: "/venues/halbrady/"
   - title: "Westside Park"
     url: "/venues/westside/"
+  - title: "Westside Baptist Church"
+    url: "/venues/westside_baptist/"
   - title: "Northside Park"
     url: "/venues/northside/"
 
