@@ -5,8 +5,12 @@ short_name: Hal Brady
 address: 14300 NW 146 Terrace, Alachua, FL 32615
 google_maps_link: https://goo.gl/maps/FLN5f6wkd7XfYurQ8
 
-schedule: "Saturday: 8:30 A.M. - 11 A.M."
+schedule: "Tuesday, Thursday, Saturday: 8:30 A.M. - 11 A.M."
 weekdays:
+    - name: Tuesday
+      time: "8:30 a.m. - 11:00 a.m."
+    - name: Thursday
+      time: "8:30 a.m. - 11:00 a.m."
     - name: Saturday
       time: "8:30 a.m. - 11:00 a.m." 
 outdoor: true
