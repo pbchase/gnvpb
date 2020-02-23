@@ -5,9 +5,9 @@ short_name: WSB
 address: 10000 W Newberry Rd, Gainesville, Fl 32606
 google_maps_link: https://goo.gl/maps/pK3mhMxJGx4xGunD7
 
-schedule: "Tuesday: 8:30 a.m. - 11:00 a.m."
+schedule: "Monday: 8:30 a.m. - 11:00 a.m."
 weekdays:
-    - name: Tuesday
+    - name: Monday
       time: "8:30 a.m. - 11:00 a.m." 
 outdoor: true
 number_of_courts: 3
