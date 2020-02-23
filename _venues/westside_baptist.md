@@ -24,4 +24,4 @@ categories:
 ---
 <!--more-->
 
-The Westside Baptist Church is a private facility with 3 indoor courts. Play is free.
+The Westside Baptist Church is a private facility with 3 indoor courts. Donations are welcome.
