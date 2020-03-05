@@ -9,7 +9,7 @@ event_start_date: 2020-01-17
 outdoor: false
 number_of_courts: 3
 private: false
-published: true
+published: false
 
 header:
     image: lake_city_winter_blast.jpg
