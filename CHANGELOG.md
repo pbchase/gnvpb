@@ -3,6 +3,21 @@ All notable changes to the Gainesville Pickleball website will be documented in 
 This project adheres to [Semantic Versioning](http://semver.org/).
 
 
+## [0.4.0] - 2020-03-08
+### Changed
+- Add two play-days to halbrady (Philip Chase)
+- Move serving port to 3000 (Philip Chase)
+
+### Added
+- Add Westside Baptist Church (Philip Chase)
+- Add 'Love Letters' post (Philip Chase)
+- Add post for Ladies Day on 2020-02-15 (Philip Chase)
+- Add 2020 Hammock Cup tournament (Philip Chase)
+
+## Removed
+- Unpublish past tournaments (Philip Chase)
+
+
 ## [0.3.1] - 2020-01-08
 ### Changed
 - Move website to http://gainesvillepickleball.club/ (Philip Chase)
