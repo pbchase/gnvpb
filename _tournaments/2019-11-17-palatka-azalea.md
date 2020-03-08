@@ -10,7 +10,7 @@ event_start_date: 2020-03-07
 outdoor: true
 number_of_courts: 16
 private: false
-published: true
+published: false
 
 header:
     image: palatka-azalea.png
