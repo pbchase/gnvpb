@@ -20,4 +20,4 @@ categories:
 ---
 <!--more-->
 
-The courts at Northside Park are closed as of 10/11/2019 for construction. They are expected to re-open in May 2020 with _4_ dedicated Pickleball courts.
+The courts at Northside Park are closed as of 10/11/2019 for construction. When finished, the project will add 4 dedicated pickleball courts. Originally planned to reopen in May, 2020, construction is delayed and the open date is more likely to be August 2020.
