@@ -30,4 +30,4 @@ categories:
 ---
 <!--more-->
 
-Jonesville Tennis Center has three outdoor courts on basketball court next to the entrance to the tennis courts.
+Jonesville Tennis Center has three outdoor courts on basketball court next to the entrance to the tennis courts. Full play on all 3 courts has been reinstated as of June 2020. 
