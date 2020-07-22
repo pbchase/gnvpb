@@ -12,6 +12,13 @@ categories:
 ---
 <!--more-->
 
+## 2020-07-18
+
+Fences are up. 
+
+![Northside Park courts paved](/images/northside-pb-20200718.jpg)
+
+
 ## 2020-07-11
 
 Paved!
