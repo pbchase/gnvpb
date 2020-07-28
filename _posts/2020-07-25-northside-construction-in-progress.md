@@ -12,6 +12,13 @@ categories:
 ---
 <!--more-->
 
+## 2020-07-25
+
+The gates are installed.  The holes for the net posts have been cut into the pavement. 
+
+![Northside Park courts paved](/images/northside-pb-20200725.jpg)
+
+
 ## 2020-07-18
 
 Fences are up. 
