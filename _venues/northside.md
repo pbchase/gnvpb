@@ -13,11 +13,13 @@ phone: (352) 334-5067
 website: https://cityofgainesville.org
 
 header:
-    image:  temporarily_under_construction.jpg
+    image:  northside-pb-20200814-cropped.jpg
     background-color: "#262930"
 categories:
     - venues
 ---
 <!--more-->
 
-The courts at Northside Park are closed as of 10/11/2019 for construction. When finished, the project will add 4 dedicated pickleball courts. Originally planned to reopen in May, 2020, construction is delayed and the open date is more likely to be August 2020.
+The courts at Northside Park are nearing completion. The photo above was taken on August 14th. 
+
+![Northside Park net with brass crank](/images/northside-pb-20200814-brass-crank.jpg)
