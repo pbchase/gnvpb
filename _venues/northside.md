@@ -13,13 +13,13 @@ phone: (352) 334-5067
 website: https://cityofgainesville.org
 
 header:
-    image:  northside-pb-20200814-cropped.jpg
+    image:  rotary_logo_1.jpg
     background-color: "#262930"
 categories:
     - venues
 ---
 <!--more-->
 
-The courts at Northside Park are nearing completion. The photo above was taken on August 14th. 
+The courts at Northside Park are nearing completion. The photo above was taken on August 22nd. 
 
 ![Northside Park net with brass crank](/images/northside-pb-20200814-brass-crank.jpg)
