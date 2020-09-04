@@ -23,3 +23,5 @@ categories:
 The courts at Northside Park are nearing completion. The photo above was taken on August 22nd. 
 
 ![Northside Park net with brass crank](/images/northside-pb-20200814-brass-crank.jpg)
+
+![Northside Park sun shade](/images/northside-pb-20200829-sun-shade.jpg)
