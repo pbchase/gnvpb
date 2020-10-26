@@ -21,6 +21,6 @@ The lighting even works!
 
 ![New LED lighting](/images/northside-pb-20201024-2.jpg)
 
-Eight additional courts are being lined.
+The tennis courts include marked corners for pickleball courts.
 
-![Eight sets of lines in progress](/images/northside-pb-additional-courts.jpg)
+![Marked corners for pickleball courts](/images/northside-pb-additional-courts.jpg)
