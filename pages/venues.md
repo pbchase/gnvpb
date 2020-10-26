@@ -17,3 +17,8 @@ permalink: "/venues/"
 <p>Scheduled play is available at these times</p>
 
 {% include _whentoplay.html %}
+
+
+<h1>Open hours</h1>
+
+<p>Northside Park is open to the public from 8 a.m. - 11:30 p.m., 7 days a week. It has 4 dedicated, lighted pickleball courts.</p>
