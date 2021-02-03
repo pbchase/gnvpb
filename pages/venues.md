@@ -21,4 +21,8 @@ permalink: "/venues/"
 
 <h1>Open hours</h1>
 
-<p>Northside Park is open to the public from 8 a.m. - 11:30 p.m., 7 days a week. It has 4 dedicated, lighted pickleball courts.</p>
+<p><a href="/venues/northside/">Northside Park</a> is open to the public from 8 a.m. - 11:30 p.m., 7 days a week. It has 4 dedicated, lighted pickleball courts.</p>
+
+<p><a href="/venues/veterans/">Kanapaha Veterans Memorial Park</a> has 6 painted courts open for pickleball Monday - Saturday, 8 a.m. - Noon. </p>
+
+<p><a href="/venues/westside/">Westside Park</a> has three outdoor courts on the east side of the Joyce Oransky Tennis Center outside the fence.</p>
