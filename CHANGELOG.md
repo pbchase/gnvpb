@@ -2,6 +2,16 @@
 All notable changes to the Gainesville Pickleball website will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## [0.5.0] 2021-02-02
+- Add Veterans Park (Philip Chase)
+- Change northside status to open (Philip Chase)
+- Northside Park construction done (Philip Chase)
+- Update photo and blurb for Westside Park (Philip Chase)
+- Note resumption of normal play with broader hours at Hal Brady (Philip Chase)
+- Update 300 schedule and add new post (Philip Chase)
+- unpublish the 2020 hammock cup (Philip Chase)
+- Add dates to posts on frontpage (Philip Chase)
+
 
 ## [0.4.0] - 2020-03-08
 ### Changed
