@@ -14,7 +14,7 @@ weekdays:
     - name: Saturday
       time: "8:30 a.m. - 11:30 a.m." 
 outdoor: true
-number_of_courts: 6
+number_of_courts: 5
 private: false
 
 header:
@@ -26,6 +26,6 @@ categories:
 ---
 <!--more-->
 
-Kanapaha Veterans Memorial Park has 6 painted courts open for pickleball Monday - Saturday, 8 a.m. - Noon. Scheduled play is Tuesday, Thursday, Saturday: 8:30 A.M. - 11:30 A.M. 
+Kanapaha Veterans Memorial Park has 5 painted courts open for pickleball Monday - Saturday, 8 a.m. - Noon. Scheduled play is Tuesday, Thursday, Saturday: 8:30 A.M. - 11:30 A.M. 
 
 ![Kanapaha Veterans Memorial Park](/images/vets_002.png)
