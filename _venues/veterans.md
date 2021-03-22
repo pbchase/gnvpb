@@ -18,7 +18,7 @@ number_of_courts: 5
 private: false
 
 header:
-    image: vets_001.png
+    image: vets_003.jpg
     background-color: "#262930"
     caption: 
 categories:
