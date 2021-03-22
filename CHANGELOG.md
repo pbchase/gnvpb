@@ -3,6 +3,10 @@ All notable changes to the Gainesville Pickleball website will be documented in 
 This project adheres to [Semantic Versioning](http://semver.org/).
 
 
+## [0.6.1] 2021-03-21
+- Update Gemfile.lock (Philip Chase)
+
+
 ## [0.6.0] 2021-03-21
 - Update images for Veterans park (Philip Chase)
 - Fix the court count at veterans (Philip Chase)
