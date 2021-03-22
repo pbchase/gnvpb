@@ -2,6 +2,12 @@
 All notable changes to the Gainesville Pickleball website will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+
+## [0.6.0] 2021-03-21
+- Update images for Veterans park (Philip Chase)
+- Fix the court count at veterans (Philip Chase)
+
+
 ## [0.5.0] 2021-02-02
 - Add Veterans Park (Philip Chase)
 - Change northside status to open (Philip Chase)
