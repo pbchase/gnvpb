@@ -24,4 +24,4 @@ categories:
 ---
 <!--more-->
 
-The Westside Baptist Church is a private facility with 3 indoor courts. Donations are welcome.
+The Westside Baptist Church is a private facility with 3 indoor courts. Donations are welcome. Temporarily not available for pickleball play.

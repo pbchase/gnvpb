@@ -5,18 +5,18 @@ short_name: MLK
 address: 1028 NE 14TH St Gainesville, FL 32601
 google_maps_link: https://goo.gl/maps/M8ZZTLfppYJsorg78
 
-schedule: "MTWThF: 7:30 a.m. - 11:00 a.m."
+schedule: "MTWThF: 8:00 a.m. - 10:30 a.m."
 weekdays:
     - name: Monday
-      time: "7:30 a.m. - 11:00 a.m." 
+      time: "8:00 a.m. - 10:30 a.m." 
     - name: Tuesday
-      time: "7:30 a.m. - 11:00 a.m." 
+      time: "8:00 a.m. - 10:30 a.m." 
     - name: Wednesday
-      time: "7:30 a.m. - 11:00 a.m." 
+      time: "8:00 a.m. - 10:30 a.m." 
     - name: Thursday
-      time: "7:30 a.m. - 11:00 a.m." 
+      time: "8:00 a.m. - 10:30 a.m." 
     - name: Friday
-      time: "7:30 a.m. - 11:00 a.m." 
+      time: "8:00 a.m. - 10:30 a.m." 
 outdoor: false
 number_of_courts: 4
 private: false
