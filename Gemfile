@@ -10,4 +10,5 @@ end
 
 gem 'asciidoctor', '~> 1.5.4'
 gem 'coderay', '1.1.1'
-
+gem "addressable", ">= 2.8.0"
+gem "rexml", ">= 3.2.5"
