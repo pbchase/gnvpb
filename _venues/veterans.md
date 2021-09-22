@@ -8,7 +8,7 @@ google_maps_link: https://goo.gl/maps/r7LZ6F6vnJrqZTCv9
 schedule: "Saturday: 8:00 A.M. - 11:00 A.M."
 weekdays:
     - name: Saturday
-      time: "8:300 a.m. - 11:00 a.m." 
+      time: "8:00 a.m. - 11:00 a.m."
 outdoor: true
 number_of_courts: 5
 private: false

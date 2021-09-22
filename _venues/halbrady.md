@@ -29,4 +29,4 @@ categories:
 ---
 <!--more-->
 
-Hal Brady Recreation Complex has 6 outdoor courts painted on basketball court adjacent to the main parking lot. As of June 2020, we are once again approved to all 6 courts. Social distancing rules apply, but we can have up to 50 people on the site.
+Hal Brady Recreation Complex has 6 outdoor courts painted on basketball court adjacent to the main parking lot.
