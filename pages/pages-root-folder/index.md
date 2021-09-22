@@ -13,11 +13,6 @@ widget1:
   image: paddles_at_jtc.png 
   text: 'News'
 
-widget3:
-  title: "Tournaments"
-  image: paddles_at_jtc.png 
-  text: 'Tournaments'
-
 permalink: /index.html
 #
 # This is a nasty hack to make the navigation highlight
