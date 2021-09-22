@@ -12,5 +12,5 @@ categories:
 ---
 <!--more-->
 
-As of June 9th, normal play has resumed at the [Hal Brady Recreation Complex](/venues/halbrady/) and the [Jonesville Tennis Center](/venues/jtc/). All courts are available. Please respect social distancing, but get out there an play. 
+As of 6/9/2020, normal play has resumed at the [Hal Brady Recreation Complex](/venues/halbrady/) and the [Jonesville Tennis Center](/venues/jtc/). All courts are available. Please respect social distancing, but get out there an play. 
 

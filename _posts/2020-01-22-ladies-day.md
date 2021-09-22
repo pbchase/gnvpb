@@ -12,7 +12,7 @@ categories:
 ---
 <!--more-->
 
-On Saturday, February 15th, the 300 Club will be hosting Ladies Day. 
+On Saturday, 2/15/2020, the 300 Club will be hosting Ladies Day. 
 
 **Location:** The 300 Club where we have 7 courts  
 **Start time:** 2pm but come any time after 2pm  
