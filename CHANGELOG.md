@@ -3,6 +3,13 @@ All notable changes to the Gainesville Pickleball website will be documented in 
 This project adheres to [Semantic Versioning](http://semver.org/).
 
 
+## [0.8.0] 2021-09-21
+- Hide widget3, the tournament section (Philip Chase)
+- Hide Mailchimp signup link on Contact page (Philip Chase)
+- Replace John's address with Mary's on the contact page (Philip Chase)
+- Hide posts that confuse people and clarify older dates to reduce confusion (Philip Chase)
+
+
 ## [0.7.0] 2021-09-14
 - Update times and descriptions for MLK, Northside, Veterans, and Westside Baptist (Philip Chase)
 
