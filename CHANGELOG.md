@@ -3,6 +3,10 @@ All notable changes to the Gainesville Pickleball website will be documented in 
 This project adheres to [Semantic Versioning](http://semver.org/).
 
 
+## [0.9.1] 2021-09-22
+- Update vulnerable gems (Philip Chase)
+
+
 ## [0.9.0] 2021-09-22
 - Announce the Google Calendar availability (Philip Chase)
 - Hide old schedule-updates post (Philip Chase)
