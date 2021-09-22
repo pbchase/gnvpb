@@ -18,6 +18,7 @@ permalink: "/venues/"
 
 {% include _whentoplay.html %}
 
+The entire schedule of regular play is also accessible in Google Calendar at [Pickleball in Gainesville, FL](https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FNew_York&src=dDNicXY4MjZiMTUyOWJibWFwbzRwbGYwcmNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23E4C441&showDate=0&showPrint=0&mode=WEEK&title=Pickleball%20in%20Gainesville%2C%20FL&showNav=0&showTabs=0&showCalendars=0&showTz=0){:target="_blank"}
 
 <h1>Open hours</h1>
 
