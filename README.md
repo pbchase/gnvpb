@@ -1,4 +1,11 @@
-# Gainesville Pickleball Website
+# Gainesville Pickleball Website - ARCHIVED
+
+**This repository has been archived and is no longer actively maintained.**
+
+This project was archived as of October 2, 2025. The project for which it was written is complete.
+
+-----------
+
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
